@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-gf3vWr0yk5g/WdAX7rZeajI/AAAAAAAAAFE/xNnO-Eu_-7koIAUuDvsqLrKcQoDxAtN3ACK4BGAYYCw/s1600/logo-atb-bolivia.jpg", ATB DIGITAL
+https://mediacp.hostradios.com.ar:19360/atbcom/atbcom.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/527821249062244352/Wkf7PBkc_400x400.png", BOLIVISION LAPAZ
+https://bo-bolivision-lapaz-live.ned.media/bolivision/smil:lapaz.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjAyODE5NjAyLCJzZXNzaW9uIjoiMTMyLjI1MS4yNDEuMjA3Iiwid2hpdGVsaXN0IjpbIjEzMi4yNTEuMjQxLjIwNyJdfSwic2lnbmF0dXJlIjoiODQyYmQ1ZDY2MzkwZDljY2VkMDFiM2RlODQyYzJhNmQ5OTkyNTI2MyJ9
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/527821249062244352/Wkf7PBkc_400x400.png", BOLIVION SANTA CRUZ
+https://bo-bolivision-santacruz-live.ned.media/bolivision/smil:santacruz.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjAyODE5NzgyLCJzZXNzaW9uIjoiMTMyLjI1MS4yNDEuMjA3Iiwid2hpdGVsaXN0IjpbIjEzMi4yNTEuMjQxLjIwNyJdfSwic2lnbmF0dXJlIjoiYTM2YmIzOTg2NGVmMzc3ZDI4ZDUzNmMyOGE5NzVmY2MxMDQ3ZWJlOCJ9
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/82/bf/7e/82bf7ed2b6d380ad1bf46bfaabd64035.jpg", CANAL ONCE MEXICO
+https://live2.canaloncelive.tv/livepkgr2/smil:internacional.smil/chunklist_w2017601363_b1000000_slesp.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-KmCmDdcCO0M/XA0nFBWw7kI/AAAAAAAAHM4/QW1ZIyK861YlyS4uP4OZxJxWkZLRiBoTgCLcBGAs/s210/Bolivia%2BTv%2Ben%2Bvivo.png", CANAL 7.1 HD
+https://5ca9af4645e15.streamlock.net/boliviatv/smil:boliviatv.smil/chunklist_w1850971069_b1428000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTUvMjAyMCA0OjExOjQ3IEFNJmhhc2hfdmFsdWU9OWlueWUzeGpLbHpNeWI5Y0JDMElEdz09JnZhbGlkbWludXRlcz01MCZpZD0%3D
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/9KXztt_fZVk/maxresdefault.jpg", CANAL 11 SANTA CRUZ
+https://srv.panelcast.net/tvuniversitaria/tvuniversitaria/chunklist_w1600895820.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-OKAqpMSHI2E/WY4cyKA8fFI/AAAAAAAAFFg/_9fabm4NFk0g0xBNvQQ2a-OR-cwjaS0_ACLcBGAs/s1600/Canal-RTP-La-Paz.jpg", RTP RED NACIONAL HD LA PAZ BOLIVIA
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w1318050586.m3u8
+#EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Canal-50-Morteros-en-vivo-Online.png?resize=218%2C150", CANAL 50 CORDOVA
+https://coopmorteros.online/canal50/vivo.m3u8
+#EXTINF:-1 tvg-logo="https://www.cablemaster.com.mx/images/Logos/enlace.jpg", ENLACE TV
+https://playback2.akamaized.net/streams/2675843_1839332_lsi966ocawh6ku0q12s_1/exp=1602822848~acl=%2f*~data=hdntl~hmac=ee736d75d380c1a279e682c562d3070e14b95c9563bbe15b7f89c927bc2dbc33/media/2675843_1839332_lsi966ocawh6ku0q12s_1@678000p.m3u8?dw=14400&ts=1602734400
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/xDXKEGU8VAA/maxresdefault.jpg", TELEFE EN VIVO
+https://video-weaver.jfk04.hls.ttvnw.net/v1/playlist/Cp8FqZ3_E99HHRMY4xmX9Gof9C81KutDT561Vis7f_J2niucQ9YS2ubqPmur6QYGwiAuJ8WaGkCRLYmsLvYSeGUQn7i43MvR6vTSLnrprxzdu_xsukEXsyLXoJ9hpa6-2tVnHgk8RBG4dzyhJhG9t1MVi0avXuvYjveqwe500obBfC4MO9NWIcUvMdPdGA6Khyi0vN3ocCyU-ksYQax_77qjZjcJUUeWLUol8ZHe-JTJ-vnDSedWwOcpqBTVpQTREu9ODXrpajDqZ6qdQnREldjBTZrdhM0qcxcvqH97rDqsRNgKfv0ugvXz3sklNqBiAzYAwZeMeswRh9fhXioxzdF4eR_ZP2DWBlK0QCDqY_qSgYcSJHnMkUnQIMThqtAgEDPo8N0YKbZiRavxDUINytLC0RxHOumzSrLcr3si3jTlUMQ42A2Tds20m0T2KmTrW-u5Bb7amcEO_2_cdZo5KnSc5g1GZ-2rSgMHR69mpexFHSXrCV6d9aYwON_wAurvfma7Zyot5ZxJQhbbGm5Q7tQJMZvMukA0f0jZjonrVGFHBKzvqTWWeGp8k36gasqDrCzL6_T7rVuQxzI3lzWzp7uXv2jnz_-qpzvzvTPqOUPp5VD92YxPY9pIGGEp_HbE024KZq6gjLvI20mcSAD5dr_sClK3nlAbh_4eM6wCGSZ1ZjI8couo2DqPa6Tb5jM_VWjZeIzPx7SjGDfD_Bmp3NcZiMdGixD4klf3ua_y_p9TdcpxzJysUr45hZYFOekwchlz6rt7eC8KIoPpmC4fRY5T78qfzKofBqhYOV6GRcBlfc8WJhfU80ik8_d8rQd6ivwCM4iiNl3u8F_x-8923lDSAvjyBX2WnJGmJv9FvEO2jVkN64M4MI_mPsvBFUYyYdcSEG2V_9_fi2LlSumsWBbjKKcaDI9TZfseMGy6oSUqjg.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1242114940/LogoCanal26.jpg", CANAL 26
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w274158151_b1264000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://multivision.tv/wp-content/uploads/2020/07/9.jpg", CANAL 9 SALTA
+https://panel.dattalive.com/8250/8250/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/7d/59/71/7d597167e9fadc759fa2e646e73e5280.jpg", TNT
+https: //video-weaver.iad03.hls.ttvnw.net / v1 / lista de reproducción / CpkFO1BLGD6k_TJita36t2caqiyVG9s-WMvgUwjDpUS5iSmgJJgrlYDS2IDJsbuCOoyK0KEF_C6vJByfyuiDIxRo6J8YdM0vbZAWXKKOsfT24XQ3n4BJc-B_v9DdSypKR3-gngvM1-kQRun_TTgQChjb2ddwCvfogi2wQiihrRSiqCCMHIBsrfdeJ5NqoqVM67NcPKPgxivGo1sG4Y5jPlqdflvf4sDSi9BD0Cv_e_beMNlNmABNj92bjXULefj1CjLpjDmmcDcL7A4vM9z3K26u7OTuongfL917iHLVaLZ94drdOwdZLiLgl2wCWhIddOtvgvfvNz1f-LzVmAk2IH9wzYutK2DyatfUTZkQj8iw9Zrdoz003APZ00PGHtvUJXaAGmdBsm0fG9sQrqcb__i_yySuSkGE7kpO-hPBONpWyBDRUZpTU3d3DimrhD9mmmlmn4wmGEAPSl5h_nZBxQfFYAeaHKnxMHpeolSsqDbk18FR7DkPXuHVk6ePINf61j52g1zHqjtDgAIc_1SCUmq590ol3A461G6F5k5b4oclyO3oZEBzK8z9-4xMIdR4l2EAu9X3oa7wYCvvgYOElxsqkFAlErvtO5Ei0iiDUTToQrUZck670DtnLzejMOJL7dai6nNLQKknONqZEXIA6HVpSyb2DSqQC2wEAd7zz3xb983P2_2R-RQT_ynDE7Ox971HcIInsAtsFQ63Zwg5ED62fSCwtJXR_YHFK_c4sVeF7i5Dc3homTNMD7OENSQlQ06fzNB26umJ8pnSNQoL74a8q20K4OoKh7Vp7zQALMq96eLIsORD7_VmXloaeIXiVcxtDhrLcdU59_6Jg1KkYH1a7mn16N8oKxVqx9drhDSJnbzXa1tZ_7eg-esSEEFkpN3Bi2gFS_bXH8rzpJ8aDJQhyA6WYqNYeLD1qQ.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Yerba_MdXIE/maxresdefault.jpg", FOX CHANNEL
+https: //video-weaver.iad03.hls.ttvnw.net / v1 / lista de reproducción / CpwFSTaNZxFQsdLQQdOUxbfrwdOaA4SI_d545wu9L-446ZD410zT-A28j9NMLg96uO_ixemNAVTFg0PNPPtmVP0hmL6R-j0hm8lX4YGqWhbSQ1mqp9fzkH0N99XRz727iWVdMYW0Y39MlD3Cm2vqNZrLhNsbrJbdgLvemMUZOpwsegqn-6QPXQYcHZS0zK8H-zrTL5YJoDVdeyxL4A8kFeWuKg7CcG68iNlIHA0Pncf60vqpjh_yLN8nLpA6WSqLdU18mX5yNdXnmGS7mDb_nRIJc-ZIYmHSlSJ-rtp45cvb5vJ-ggQQReCcYUm9pUNDeLA1nHL5s9-jBA5bm688NVk-zAitD0rUxpfdAVhpJTVHcnky32hQIpU8mps7oas0lutxCpKPc0_yOlTTXsqMsrEvX2C00R4Bn1rNdUDj6IhpZjyyDKWWMCBQ5wl0fCaaAyqpYRfbigQ76BPHLWRh1wZpgSznqLxveNT_vQ0dZtyt_dB2vn8iX-XTjt8r3ZxrpPCwo13N2u2eMo74x74jUGwzwXw1emiLMLd5Y7kxvkBl1KoPuH-cbhY_BCm4GVTomf0R9HIgehU3QI4MI54XvDEa79MVrUjSzOb7r_rdqHxyRD2wLrdp4yRArf2GPrrsjRI_2jZp81A_s-fRsxwS2THhJGZ_c3orxZGdAaccQGvrjt59-o6f25N2Du7mPK7VLEqrkM1U8mLqq5f4lHBdrjoFagmB5CvFgJw1pCUN37IWWG6f3Jg_A2OdkpN3gq9mC3fZkUKRuZZJ9Gmfxa5rUZMZmQe31G93-QxoLHsp1ltUo-NE29u_VBWdBDPYUjCudZUTzwapAVarffmeMCzWjp-yto44tleiV7wELdHCuYpm43B6Jdi8QCOhTnxsbU0SEOfy9dS9gQiQFsQxkGx0WqAaDKjj24yhAl9Rq8Z8qg.m3u8
+#EXTINF:-1 tvg-logo=""
+#EXTINF:-1 tvg-logo=""
+#EXTINF:-1 tvg-logo=""
+#EXTINF:-1 tvg-logo=""
+#EXTINF:-1 tvg-logo=""
+#EXTINF:-1 tvg-logo=""
+#EXTINF:-1 tvg-logo=""
+#EXTINF:-1 tvg-logo=""
+#EXTINF:-1 tvg-logo=""
+#EXTINF:-1 tvg-logo=""
+#EXTINF:-1 tvg-logo=""
+#EXTINF:-1 tvg-logo=""
+#EXTINF:-1 tvg-logo=""
+#EXTINF:-1 tvg-logo=""
+#EXTINF:-1 tvg-logo=""
+#EXTINF:-1 tvg-logo=""
+#EXTINF:-1 tvg-logo=""
+#EXTINF:-1 tvg-logo=""
+#EXTINF:-1 tvg-logo=""
+#EXTINF:-1 tvg-logo=""
+#EXTINF:-1 tvg-logo=""
+#EXTINF:-1 tvg-logo=""
+#EXTINF:-1 tvg-logo=""
+#EXTINF:-1 tvg-logo=""
+#EXTINF:-1 tvg-logo=""
+#EXTINF:-1 tvg-logo=""
+#EXTINF:-1 tvg-logo=""
+#EXTINF:-1 tvg-logo=""
