@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="", NOW-80s
 https://www.cxtvlive.com/live-tv/now-80s.m3u8
-#EXTINF:-1 HETAI
+#EXTINF:-1 tvg-logo="", HETAI
 https://dl.dropboxusercontent.com/scl/fi/v57a56bdtttspe8sm7uhw/VID-20241013-WA0318.mp4?rlkey=uys0yx5y8panwf84ks9o28o6z&st=tvdc4q0c&dl=0
 #EXTINF:-1 NOW ROCK LIVE
 https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
