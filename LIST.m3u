@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="", NOW-80s
 https://www.cxtvlive.com/live-tv/now-80s.m3u8
+#EXTINF:-1 tvg-logo="", asia xxx
+https://dash-s4-c50-de-cdn.eporner.com/hls/v12/8067024-,240p,360p,480p,720p,.mp4.urlset/master.m3u8?hash=MDXECOWLuDkSVHiD-j-cnA&expires=1732680979&ip=190.11.93.32
 #EXTINF:-1 NOW ROCK LIVE
 https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 NOW 70s Live
